@@ -11230,7 +11230,7 @@
 				)
 			)
 		)
-		(property "Footprint" "EESTN5:ESP32_DEVKITC"
+		(property "Footprint" "ESP32:MODULE_ESP32-DEVKITC"
 			(at 44.45 48.26 0)
 			(effects
 				(font
